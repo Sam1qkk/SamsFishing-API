@@ -1,6 +1,6 @@
 # SamsFishing API
 
-The developer API of [SamsFishing](https://docs.samscreations.eu/samsfishing), the custom fishing plugin by
+The developer API of [SamsFishing](https://samscreations.eu/docs/samsfishing), the custom fishing plugin by
 SamsCreations: read and change players' fishing progress, create catches and gear, start competitions and listen
 to fishing events.
 
@@ -86,7 +86,7 @@ public void onCatch(FishCaughtEvent event) {
 ## Addons
 
 SamsFishing also loads addon jars from `plugins/SamsFishing/addons/` (like its in-game editor). See
-[Addons](https://docs.samscreations.eu/samsfishing/developers/addons) in the wiki.
+[Addons](https://samscreations.eu/docs/samsfishing/developers/addons) in the wiki.
 
 ## Support
 
